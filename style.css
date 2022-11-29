@@ -41,10 +41,10 @@ body {
     width: calc(100% + 5px);
     height: calc(100% + 5px);
     z-index: -1;
-    animation: animate 20s linear infinite;
+    animation: neon 20s linear infinite;
  }
 
- @keyframes animate{
+ @keyframes neon{
     0%{
         background-position: 0 0 ;
     }
